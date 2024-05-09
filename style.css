@@ -46,7 +46,7 @@ img {
     height: 1300px;
     width: 100%;
     flex-direction: column;
-    background-image: url(/images/car.jpg);
+    background-image: url(images/car.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
